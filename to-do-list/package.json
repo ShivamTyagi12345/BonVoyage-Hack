@@ -30,5 +30,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "During the coding training at **MolenGeek** I made a Todo List to practice ReactJS.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
